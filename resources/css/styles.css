@@ -1,0 +1,50 @@
+.cat {
+  font-family: helvetica;
+  font-size: 12px;
+  font-weight: bold;
+  font-style: italic;
+  background-color: lightblue;
+  border-style: solid;
+  border-color:white;
+}
+
+h1 {
+  padding-left: 10px;
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
+
+p {
+  font-weight: lighter;
+  font-style: italic;
+  margin-top:5px;
+  margin-bottom:8px;
+}
+
+.dog {
+  font-family:times;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: red;
+  border-style: dotted;
+  color:white;
+  border-color: black;
+}
+
+li {
+  font-weight: lighter;
+}
+
+body{
+  background-color:pink;
+  font-family:
+}
+
+.secondDiv{
+  background-color: Yellow;
+  padding: 50px 25px 10px 5px;
+}
+
+ol {
+  margin:5px;
+}
