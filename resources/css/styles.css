@@ -19,6 +19,7 @@ p {
   font-style: italic;
   margin-top:5px;
   margin-bottom:8px;
+  padding-left: 75px;
 }
 
 .dog {
@@ -47,4 +48,14 @@ body{
 
 ol {
   margin:5px;
+}
+
+img {
+  float:left;
+  height:50px;
+  width:50px;
+}
+
+h3 {
+  padding-left: 60px;
 }
